@@ -1,6 +1,6 @@
 # COMMANDS
 
-## BASH COMMANDS
+## BASH COMMANDS:
 
 ### CREATE FILE
 
@@ -29,7 +29,7 @@
 - `rm {filename}    # Remove file`
 - `rm -r {folderName}   #Remove folder and contents`
 
-## GIT COMMANDS
+## GIT COMMANDS:
 
 ### INITIALIZE REPOSITORY
 
